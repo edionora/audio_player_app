@@ -8,8 +8,8 @@ function Song(source, title, artist, description, album, id) {
   }
 
   const songs = [
-    new Song('/upstep.mp3', 'Upstep', "Unknown",'Brutal beat and bulky bass are the foundation for a dubstep frenzy featuring synths, wailing guitar and jitters and glitches. Tempo: 140bpm', "https://pointlessthoughts534.files.wordpress.com/2017/07/itunes-unknown-album.png?w=213&h=213", 0),
-    new Song('/olympian.mp3', 'Olympian', "Unknown", 'An energetic, vibrant track featuring positive electric guitar licks and modern drums creates useful sports theme. Tempo: 130bpm', "https://pointlessthoughts534.files.wordpress.com/2017/07/itunes-unknown-album.png?w=213&h=213", 1),
+    new Song('/Nirvana.mp3', 'Nirvana', "Sam Smith",'No information available', "https://images.rapgenius.com/b967568959fc8e7df4a39a8947f70c2b.960x960x1.jpg", 0),
+    new Song('/My Imagination.mp3', 'My Imagination', "Majid Jordan Ft. DVSN", "My Imagination is a single from singer-producer duo, Majid Jordans' album, The Space Between", "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/68/75/5f/68755f0c-eaa7-1826-a31d-7aab30b8e3bb/093624909248.jpg/268x0w.jpg", 1),
     new Song('/Naked.mp3', 'Naked', "James Arthur", 'No information available', "https://pointlessthoughts534.files.wordpress.com/2017/07/itunes-unknown-album.png?w=213&h=213", 2),
     new Song('/In The Name Of Love.mp3', 'In The Name of Love', 'Martin Garrix', 'No information available',"https://i.scdn.co/image/a1a2e08be66df92c75e46ad8330c9d4937bff209", 3),
     new Song('/Thief.mp3', 'Thief', 'Ookay', 'No information available', 'https://d3us2i0tqwa7m7.cloudfront.net/pulses/17337344460510000/1467213445524_res_original.jpg', 4),
