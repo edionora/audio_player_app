@@ -1,0 +1,83 @@
+/*The following were take from App.css*/
+.App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: lightgray;
+    height: 150px;
+    padding: 20px;
+    color:  white;
+  }
+  
+  .headerFont {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.5em;
+    text-transform: uppercase;
+  }
+  
+  @keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+
+
+ #detailsButton{
+   margin-top: 7px;
+   margin-bottom: 3px;
+   width: 55px;
+   height: 55px; 
+ }
+
+ .detailsImg{
+      width: 25em;
+      height: 25em;
+ }
+
+ .albumCover{
+  display: inline-block;
+    width: 10em;
+    height: 10em;
+ }
+
+ .recentSongs{
+   margin-top: 100px;
+   float: right;
+   font-family: Georgia, 'Times New Roman', Times, serif
+ }
+
+ .center-card{
+  display: inline-block;
+  max-width: 25%;
+  min-height: 35%;
+ }
+
+ .cardFont{
+  font-size: 2em;
+  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+ }
+
+ .detailFont{
+  font-size: 2.5em;
+  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+ }
+
+ .card-text{
+  font-size: 1.25em;
+  font-family: Georgia, 'Times New Roman', Times, serif
+ }
+
+#mini_player{
+  margin-top: 10px
+}
+/* .App-header {
+  background-color:white;
+  height: 150px;
+  padding: 20px;
+  color:  #222;
+} */
